@@ -47,8 +47,8 @@ De nature curieuse je m'intéresse à tout, les projets que j'ai réalisé sont 
 - <img src="https://mkdirs.github.io/kandi/kandi.png" width="30"/>[Kandi](https://mkdirs.github.io/kandi/): Un moteur de raymarching (WIP).
 
 <div style="display: flex; flex-direction: row; gap: 10px">
-<img src="kandi-color.gif" width="300" style="object-fit: scale-down;">
-<img src="kandi-sdf.gif" width="300" style="object-fit: scale-down;">
+<img src="kandi-color.gif" width="400" style="object-fit: scale-down;">
+<img src="kandi-sdf.gif" width="400" style="object-fit: scale-down;">
 </div>
 
 - [Papyrus](https://github.com/Mkdirs/papyrus): Un programme qui permet de dessiner via des scripts.
